@@ -1,4 +1,4 @@
-# UWO Rideshare Private Policy
+# UWORideshare Private Policy
 
 Tristan Wolf built the UWORideshare app as a Free app. This SERVICE is provided by Tristan Wolf at no cost and is intended for use as is.
 
